@@ -180,7 +180,7 @@ Enquanto o Orion mantém o estado atual das entidades, o PostgreSQL permite arma
 
 O Grafana é utilizado para visualizar os dados persistidos no PostgreSQL.
 
-É possível criar dashboards com gráficos de:
+Por exemplo, para a estação de monitoramento de qualidade do ar, dashboards contendo as informações a seguir podem ser construídos:
 
 * temperatura;
 * umidade;
